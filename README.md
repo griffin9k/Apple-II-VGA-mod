@@ -1,4 +1,6 @@
 This repo is forked from Briel's Apple II VGA Video Card project, and improved by removing soldermask from the edge connector, Having no solder mask between fingers is recommended for PCB edge connectors to avoid flaking.
+<br>![a2vga_sm_top_3d](https://github.com/griffin9k/Apple-II-VGA-mod/assets/52750376/5b7c9c68-b1ee-438a-8ff9-a977913148fd)
+
 <br>![appleIIvga github logo](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/f0ab0489-d28a-4196-acec-dbffe0313f11)
 <br>
 
